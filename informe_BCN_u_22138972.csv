@@ -1,0 +1,2 @@
+"idccaa","mean(precio_gasoleo_a, na.rm = TRUE)","mean(precio_gasolina_95_e5_premium, na.rm = TRUE)","max(precio_gasoleo_a, na.rm = TRUE)","max(precio_gasolina_95_e5_premium, na.rm = TRUE)","min(precio_gasoleo_a, na.rm = TRUE)","min(precio_gasolina_95_e5_premium, na.rm = TRUE)"
+"09",1.34853840782123,1.55807692307692,1.6,1.694,1.149,1.349
